@@ -13,7 +13,7 @@ In order to send data from Helium to TagoIO, you will have to create an Helium i
 
 ## Payload Parser
 
-Down below, the JavaScript "Payload Parser" that decodes the Cayenne LPP payload into JSON format expected by TagoIO API:
+Down below, the JavaScript ["Payload Parser"](https://gist.github.com/vhuynen/2bc0bdeec4b2c718508d8c2bd0bb4892) that decodes the Cayenne LPP payload into JSON format expected by TagoIO API:
 
 ``` js
 // convert string to short integer
