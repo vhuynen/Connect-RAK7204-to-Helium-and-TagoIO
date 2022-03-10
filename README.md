@@ -78,4 +78,4 @@ if (payload_raw) {
 
 ## TagoIO Dashboard
 
-![dashboard](./docs/gallery/dashboard_tagoio.png)
+![dashboard](./docs/gallery/Dashboard_TagoIO.png)
